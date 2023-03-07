@@ -1,0 +1,8 @@
+C:\Users\mello\source\repos\Prog_Lab_1\bin\Debug\Prog_Lab_1.exe.config
+C:\Users\mello\source\repos\Prog_Lab_1\bin\Debug\Prog_Lab_1.exe
+C:\Users\mello\source\repos\Prog_Lab_1\bin\Debug\Prog_Lab_1.pdb
+C:\Users\mello\source\repos\Prog_Lab_1\obj\Debug\Prog_Lab_1.csproj.AssemblyReference.cache
+C:\Users\mello\source\repos\Prog_Lab_1\obj\Debug\Prog_Lab_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mello\source\repos\Prog_Lab_1\obj\Debug\Prog_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\mello\source\repos\Prog_Lab_1\obj\Debug\Prog_Lab_1.exe
+C:\Users\mello\source\repos\Prog_Lab_1\obj\Debug\Prog_Lab_1.pdb
