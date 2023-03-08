@@ -1,0 +1,8 @@
+C:\Users\mello\source\repos\LAB3_2sem\bin\Debug\LAB3_2sem.exe.config
+C:\Users\mello\source\repos\LAB3_2sem\bin\Debug\LAB3_2sem.exe
+C:\Users\mello\source\repos\LAB3_2sem\bin\Debug\LAB3_2sem.pdb
+C:\Users\mello\source\repos\LAB3_2sem\obj\Debug\LAB3_2sem.csproj.AssemblyReference.cache
+C:\Users\mello\source\repos\LAB3_2sem\obj\Debug\LAB3_2sem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mello\source\repos\LAB3_2sem\obj\Debug\LAB3_2sem.csproj.CoreCompileInputs.cache
+C:\Users\mello\source\repos\LAB3_2sem\obj\Debug\LAB3_2sem.exe
+C:\Users\mello\source\repos\LAB3_2sem\obj\Debug\LAB3_2sem.pdb
